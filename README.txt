@@ -1,0 +1,1 @@
+Abra index.html. A música e as fotos já estão dentro da pasta assets.
